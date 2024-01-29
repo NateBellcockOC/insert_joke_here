@@ -5,7 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/jerom/OneDrive/Documents/GitHub/insert_joke_here/PopFight/Content/PopFight/Blueprints/Player/balloony.uasset"
+				"C:/Users/jerom/OneDrive/Documents/GitHub/insert_joke_here/PopFight/Content/PopFight/Blueprints/Player/balloony.uasset",
+				"C:/Users/jerom/OneDrive/Documents/GitHub/insert_joke_here/PopFight/Content/PopFight/Blueprints/Player/BalloonyAnimation.uasset"
 			]
 		}
 	]
